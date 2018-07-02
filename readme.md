@@ -1,6 +1,6 @@
 # Express Boilerplate
 
-Backend Webservice for Brandt Time Applications Smart TV (Updater).
+Express server boilerplate, with babel for ES6 features, basic authentication with JWT, MongoDB as a database
 
 ## System Requirements
 
