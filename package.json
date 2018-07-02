@@ -5,6 +5,10 @@
   "main": "src/app.js",
   "author": "Osmane Kalache",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osminosm/boilerplate-express.git"
+  },
   "scripts": {
     "babel-node": "node ./node_modules/babel-cli/bin/babel-node --presets=env",
     "start": "nodemon --exec npm run babel-node -- ./src/app.js",
