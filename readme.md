@@ -161,10 +161,6 @@ RESPONSE (status=404) {
 
 2. 01XXX : Authentication
 
-3. 02XXX : App Managment
-
-4. 03XXX : Updates
-
 > Message : a String description of the error.
 
 ## Testing 
